@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/poppy/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud based remote android managment suite, powered by NodeJS
 </p>
 
